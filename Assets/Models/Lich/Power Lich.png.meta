@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 53a73c45998d44cf0a5f37720ed746ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Power Lich_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2003
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2002d5b157c242a8bb11746c59b0fcf
+      internalID: -1973892778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2003
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aaf20379dc3468ba52166ccd5fa795
+      internalID: 640670809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2003
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eabc3247fac741f3b46f1eff3e0f7be
+      internalID: -1953702291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2003
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53aa1eb5d30b4e83a40688ca48f7718
+      internalID: -1362388974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2003
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31185e5b45346f8a55eb6340fbe416
+      internalID: 1420746161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_5
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2003
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe7b9a9b630d478dbc0afb0a7713d9a
+      internalID: -1813305730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2003
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcef2430adf44f159851272f47c40a7
+      internalID: 1373177084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2003
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fc91d6757b4dc28f1358f8abf6237
+      internalID: -1276266286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_8
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2003
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0e72e5904b43178d4b63c148a5428
+      internalID: -618557340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1834
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a21b2d096bc54a76865bba79361490d
+      internalID: -316192256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1834
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5e0fa0e9134e9480ad6548dac053c
+      internalID: 2138394490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1834
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd45f9b60d9d4a6da0d1c16e68bcd8d
+      internalID: -453604575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1834
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80faaa85402884571b0cda241739ec64
+      internalID: 1350827672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1836
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f9af60e0ac4e9a87ff3539b751793
+      internalID: -443107550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1835
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7f68ebf1bc43f6b5c05e7aacfd28c
+      internalID: 843966267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1831
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9c34f1125f4f09a4096213cc7f996
+      internalID: 854993909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_16
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1832
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631a7347e93043318d435bcaaa54294
+      internalID: -1174713381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1686
+        width: 46
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf8691380a74febbaaa6ee0b8cb53a
+      internalID: -1148898287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1686
+        width: 48
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9639ed40f248e4f4eb76a9984954b167
+      internalID: 1832563720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1686
+        width: 51
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d90ae7cb0954c2d8f1d5e13537a127
+      internalID: -686607538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1687
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcadb51fc9fe414d8967aa15a13e04c
+      internalID: -251872991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1692
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3370fb8155a7441c801e969bfb5b450
+      internalID: 2131215237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1689
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b54a686a1814b41818c5a1f1b77eb3
+      internalID: 1889207072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1688
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073c8a0798c84dbebdd98ea4994ac7c
+      internalID: -1724256899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1689
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a1308de230e4b868a1d39315cb2f12
+      internalID: 350653302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1524
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e375e199523b4d33bb112f315531ff7
+      internalID: 1898531125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1524
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639fe49a44fd94c08ba63c25001372d8
+      internalID: -1747049854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1524
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38021491ae7fc4cf39a2f77944d5dfa8
+      internalID: 554383734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1523
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58fb32b39c947839c9eb2a6e5b714d
+      internalID: -1308978439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1543
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5477a1873143c3a24f4ceba95a34a
+      internalID: -2012739550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1583
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c3cda4ef6649bc8f693f1ed093d3e
+      internalID: 1254966957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_31
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1593
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6a84b096b14984a9a142d6223635c
+      internalID: -1778231404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_32
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1593
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7b5dcfe6a440209c266c46dd5b48b
+      internalID: -1568278858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_33
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1563
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f9de0a17264ff29415efbcbad4278
+      internalID: 1877895693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_34
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1563
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee876d93f53d49f5ab950fdc4d218f5
+      internalID: 854049807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_35
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1560
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4c2f07e4b14d738d16da328f40cb3
+      internalID: -296804753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_36
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1563
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bbf7c009ab24dd386be20cc331d8c4
+      internalID: 843888139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_37
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1560
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe973d697aeb42569606cfe8e344915
+      internalID: -573400087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_38
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1563
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0ea8f2ecd34ab586e6342de4506e1
+      internalID: 878223217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_39
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1547
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed17c43bf0474e799a806f2c0fca1a7
+      internalID: -698174918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_40
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1545
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e123750892c4120918d46240e3e631
+      internalID: 1546526950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_41
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1544
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e0a47ae251b410aaf2af07eec64ae7
+      internalID: -1445489212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_42
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1547
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af003d6ecdc9f46eca3137fb0739d9d9
+      internalID: 447462530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1547
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc86d2ec5082848ea8e73d72329d3b38
+      internalID: -136876832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1380
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92b547ab5524790a7d403148304bd6
+      internalID: 1705853645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1380
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8d51e5ea60461ba3ebf9a1a56e9f6
+      internalID: 1984500384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1380
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c14b745174b4bec8772be7ca9892db
+      internalID: -667816279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1379
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb88b16c5824e50bdd992ea79f9f02
+      internalID: 749912189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1408
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780ecf56b1fb6419aaa73148e868ae96
+      internalID: -1692076180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_49
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1408
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9df8c83f1c4e8c9bc0e36805c93db
+      internalID: -147603815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_50
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1408
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e354a25c7b4b09832a87403a1ec26
+      internalID: 248556301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_51
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1408
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dba28be04a84e289d354d0f8cb8bf6
+      internalID: -335589158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_52
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1408
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d4c95204c34cf38e30a5761a3bc2a
+      internalID: -790834463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1252
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0a004ac92244aaacd1c2978e25b15
+      internalID: 684996598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1252
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a708690fbf8804ce29cdee6588841ae8
+      internalID: 813017331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1252
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e652c4842ea6426494eedf13aad97e1
+      internalID: 43244686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_56
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1249
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82769626dabe146c69d578d557bb511b
+      internalID: -951293954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_57
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1299
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972fc25b53dc44c7b8b1de8f8267bb2
+      internalID: 327983956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_58
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1249
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013afc1772994fef9b1f1f6ec6e85cd
+      internalID: -287059100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_59
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1281
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd55afe7efba46b1871aae71f13183b
+      internalID: 861844479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_60
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1268
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44b5a8a672d45e9bb326c8cbe40240
+      internalID: 1761756506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_61
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1265
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cde90b948c9546dbb0cd012ba57f7b2
+      internalID: -913233586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_62
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1249
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025f7d1182634b8d9863116066b0ab9
+      internalID: -1272143568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_63
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1249
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3047512475452c9732c7da0f05ce5
+      internalID: 1509905568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_64
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1252
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd1ed8b2751424a9e04adb5b16f88c
+      internalID: 948209531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_65
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1109
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e0296ce852544d495a2bba06c0a2fe
+      internalID: -2050957472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1108
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f00d632da34980869715a6701658f
+      internalID: -455534510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_67
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1108
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981294e5ff2e489eb3c85710f9c797b
+      internalID: 1715015737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_68
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1108
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2081a8941244214b47dd887aa26e19
+      internalID: -1032355489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_69
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1108
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe490cfb918694731a7f012e7338b556
+      internalID: 1172432640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_70
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1108
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368b7ae9a06d94997b5f0b13a68a5a9f
+      internalID: 1610606316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 964
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe26c2569f7d4929880708856865731
+      internalID: 120855021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 964
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaec02ac05314f5d9066fd36f953868
+      internalID: -2135846252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 965
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3152bca40fd74d40a0762ffa282c21e
+      internalID: 137919084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_74
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 963
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a17d7a84fe542b3bb8422e855fb1c3
+      internalID: 1399770223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_75
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 964
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ffbd9101474ec2bd8b0f83a535ef8
+      internalID: -674137634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_76
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 964
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba5f8f63ee446c38de3b9ab1c0a039
+      internalID: -313690432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_77
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 964
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7607a0f182f438d8cf20cd131d7bb4
+      internalID: -1942896913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_78
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 964
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069d34ac2b8c4ac8a163afd269058a5
+      internalID: 932163920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_79
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 811
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff13620590ca41a6b8765d933fc7cc5
+      internalID: -390291703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 811
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7358f514c850f4e5daea0f33d8d38b34
+      internalID: -1562007245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_81
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 812
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac869d3dccc34c499a3195d55de459d
+      internalID: -1185859026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 796
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679bd1fd115ef4d0b944c71919afc853
+      internalID: 1738913865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_83
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 811
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe72a671b4f490eaaad6aa51ba0486
+      internalID: 26331674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_84
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 811
+        width: 121
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191c5dc466274d44a70f9e1e508b05c
+      internalID: -974265378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_85
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 811
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada737276dc44b9d97c48c28a98bf8a
+      internalID: 1357467285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_86
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 811
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f47a2d39794bb6bcde3f741d06957
+      internalID: 1819953119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_87
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 648
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38c35c297e9e4384bb6314a962ae739
+      internalID: -1116207384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_88
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 650
+        width: 76
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d852e0c245d4dc18db2fc703e206eb
+      internalID: 855971515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_89
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 652
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23d57f065ef4a3bb0cb761e7687787
+      internalID: 662966800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_90
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 652
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcaf69b304f4d7ba886eb89877474d
+      internalID: 1571331526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_91
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 656
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39749f92d6f4e7eaa303c999160567
+      internalID: 314447982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_92
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 658
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298cf3d922f9408f9262ae718c800df
+      internalID: -2014310301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_93
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 660
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abb949e31a5c4fc7a070e2e314ce09c
+      internalID: -862260071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_94
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 500
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1005f914cca4fb19a9759ff03d3ab0
+      internalID: -2138784062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 500
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756dd7ca79df42ef8d77955d88719fe
+      internalID: 1667708658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 500
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18e2973abdee430497fb613c25b7fa3
+      internalID: -1432412895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_97
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 500
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58fedab1f8fd4f7c9a1582c65f57696
+      internalID: -1451817801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_98
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 500
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f143dfa2ee854fc78cef23dc7a4edef
+      internalID: 490382776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_99
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 500
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4faec7223934cd2a2b39fc2940a17f
+      internalID: 1969868486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_100
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 496
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3174125d174724644bfae4885f798b19
+      internalID: -1071590841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_101
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 495
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580e95474afab464b929c6b8341b556d
+      internalID: -571528399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_102
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 465
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e624df6dd224beca0b612283a33b9b
+      internalID: -676937674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_103
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 343
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491f5b232a8a4f9eab86d3039a7df4d
+      internalID: -1841980248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3821d0c435bc46e1a8958fbb20c75e5
+      internalID: -2101480888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_105
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 475
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d474ff4a0d7428b890407f7babef10
+      internalID: 1338476543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_106
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 343
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90b5732d95149de9720d46a2a06a3e
+      internalID: 256556473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_107
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 345
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f632e412a84930a18a24c221fee93
+      internalID: -1209448893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_108
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 465
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71565a007794e1ca633dd38943e298
+      internalID: 390046209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_109
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 350
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9634be76d8f04694b3618463bf148b9
+      internalID: 151451709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_110
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 349
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2585c5ef77224ebaa707163667c26f2
+      internalID: -25066027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_111
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 346
+        width: 131
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481187ca46b8f4456be6120fa0657ce4
+      internalID: 2134274788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 346
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77caf3e41b32247d28e477bcf1d7fe4e
+      internalID: -1609870673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_113
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 353
+        width: 133
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1bf0babf2744e9bdd7cd9379bc190
+      internalID: -2102469459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_114
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 455
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b045ab5384094176b783660409a80bb
+      internalID: -1685702130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_115
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 182
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca33fca0d893409495b3e4eda34a8ec
+      internalID: -1914571470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_116
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 194
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa372d5a4de9499f8f2b0d58acaa90b
+      internalID: -942419167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_117
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 194
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa87ca189c9d49918a955a31562b6bf
+      internalID: 1384779335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_118
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 313
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53caf3e35e1454cc3b3727955ea6361d
+      internalID: -2044364178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_119
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 192
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed33f7909c0473081037d1da91cb0c
+      internalID: -878826473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_120
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 315
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca152e4ad1e458fb35489a98e555ba
+      internalID: 972351651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 273
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f82a3fb678b40509eca5be56b8d69d
+      internalID: 1518986344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_122
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 187
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b020f847b2a84d56abd5a52d4a7bdf3
+      internalID: 315930508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 276
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a6c3d52aff9447cb17be19a37c5809
+      internalID: 1261259519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_124
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 184
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec54466d01b743a58faf840172e16d3
+      internalID: -1603634548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_125
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 276
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba060607d4c54c82ae69aaafb773116
+      internalID: -767609420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_126
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 182
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01e0f49852eb42999d674e648639b30
+      internalID: -1403756729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_127
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 191
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb5be34544142e1b06c60aa723c857
+      internalID: -535614016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_128
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505afc21761a74ce9b1cd0eb4c11dd5b
+      internalID: 1614498223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_129
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1b4393dd06451e8ce498b3034da78
+      internalID: -81302658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_130
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 183
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384289b191d46437d987089850d002f2
+      internalID: 1422255866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_131
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec8d4912cb71450798cb0746e23600c
+      internalID: -306726474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 31
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699eee2af7164cff955f8127dca1fd1
+      internalID: 1684912637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_133
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fe4f426adb46f68b1cf6fee1aae3f
+      internalID: -1487566192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_134
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 38
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42958aa03bab48bba2058d86d8ae453
+      internalID: 959678426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_135
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 90
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebed09a817254459a9d68a17f00b197
+      internalID: 634888256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_136
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 90
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323810ce2af4411786f53c9845c1f7a
+      internalID: 1428633809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_137
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8493f964ab4cad87aadd3a0caa7cf
+      internalID: -1567238530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_138
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 99
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28169eb305e82408a97f4827f6d8c52e
+      internalID: 1611919767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_139
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 91
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80159c0c3ff409eb1459bf8f315eac
+      internalID: 399144327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_140
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 89
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f6e47bcf604c8c936bc53651307a9
+      internalID: -1548313185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_141
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 89
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc8d0b7c2ab4f919f65c67663f409f
+      internalID: 1427825166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_142
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 88
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf813e2effb411da045bd815205f47
+      internalID: -1380798021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Lich_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879a1cf3c086475fab563587e8ff2cf
+      internalID: -446333994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Power Lich_136: 1428633809
+      Power Lich_40: 1546526950
+      Power Lich_52: -790834463
+      Power Lich_67: 1715015737
+      Power Lich_13: -443107550
+      Power Lich_42: 447462530
+      Power Lich_94: -2138784062
+      Power Lich_12: 1350827672
+      Power Lich_73: 137919084
+      Power Lich_28: -1308978439
+      Power Lich_10: 2138394490
+      Power Lich_24: 350653302
+      Power Lich_47: 749912189
+      Power Lich_99: 1969868486
+      Power Lich_114: -1685702130
+      Power Lich_103: -1841980248
+      Power Lich_15: 854993909
+      Power Lich_142: -1380798021
+      Power Lich_62: -1272143568
+      Power Lich_48: -1692076180
+      Power Lich_70: 1610606316
+      Power Lich_46: -667816279
+      Power Lich_93: -862260071
+      Power Lich_79: -390291703
+      Power Lich_101: -571528399
+      Power Lich_32: -1568278858
+      Power Lich_76: -313690432
+      Power Lich_109: 151451709
+      Power Lich_50: 248556301
+      Power Lich_78: 932163920
+      Power Lich_63: 1509905568
+      Power Lich_72: -2135846252
+      Power Lich_7: -1276266286
+      Power Lich_105: 1338476543
+      Power Lich_120: 972351651
+      Power Lich_5: -1813305730
+      Power Lich_89: 662966800
+      Power Lich_69: 1172432640
+      Power Lich_108: 390046209
+      Power Lich_18: 1832563720
+      Power Lich_44: 1705853645
+      Power Lich_16: -1174713381
+      Power Lich_119: -878826473
+      Power Lich_53: 684996598
+      Power Lich_75: -674137634
+      Power Lich_132: 1684912637
+      Power Lich_84: -974265378
+      Power Lich_124: -1603634548
+      Power Lich_83: 26331674
+      Power Lich_104: -2101480888
+      Power Lich_126: -1403756729
+      Power Lich_31: -1778231404
+      Power Lich_6: 1373177084
+      Power Lich_87: -1116207384
+      Power Lich_9: -316192256
+      Power Lich_61: -913233586
+      Power Lich_113: -2102469459
+      Power Lich_68: -1032355489
+      Power Lich_34: 854049807
+      Power Lich_81: -1185859026
+      Power Lich_98: 490382776
+      Power Lich_38: 878223217
+      Power Lich_19: -686607538
+      Power Lich_96: -1432412895
+      Power Lich_91: 314447982
+      Power Lich_143: -446333994
+      Power Lich_131: -306726474
+      Power Lich_102: -676937674
+      Power Lich_26: -1747049854
+      Power Lich_25: 1898531125
+      Power Lich_90: 1571331526
+      Power Lich_129: -81302658
+      Power Lich_2: -1953702291
+      Power Lich_65: -2050957472
+      Power Lich_54: 813017331
+      Power Lich_110: -25066027
+      Power Lich_51: -335589158
+      Power Lich_36: 843888139
+      Power Lich_11: -453604575
+      Power Lich_56: -951293954
+      Power Lich_123: 1261259519
+      Power Lich_30: 1254966957
+      Power Lich_127: -535614016
+      Power Lich_29: -2012739550
+      Power Lich_135: 634888256
+      Power Lich_64: 948209531
+      Power Lich_85: 1357467285
+      Power Lich_41: -1445489212
+      Power Lich_39: -698174918
+      Power Lich_97: -1451817801
+      Power Lich_57: 327983956
+      Power Lich_121: 1518986344
+      Power Lich_59: 861844479
+      Power Lich_130: 1422255866
+      Power Lich_74: 1399770223
+      Power Lich_3: -1362388974
+      Power Lich_88: 855971515
+      Power Lich_14: 843966267
+      Power Lich_0: -1973892778
+      Power Lich_106: 256556473
+      Power Lich_139: 399144327
+      Power Lich_37: -573400087
+      Power Lich_17: -1148898287
+      Power Lich_112: -1609870673
+      Power Lich_55: 43244686
+      Power Lich_92: -2014310301
+      Power Lich_77: -1942896913
+      Power Lich_21: 2131215237
+      Power Lich_71: 120855021
+      Power Lich_128: 1614498223
+      Power Lich_58: -287059100
+      Power Lich_80: -1562007245
+      Power Lich_133: -1487566192
+      Power Lich_43: -136876832
+      Power Lich_100: -1071590841
+      Power Lich_27: 554383734
+      Power Lich_60: 1761756506
+      Power Lich_22: 1889207072
+      Power Lich_66: -455534510
+      Power Lich_35: -296804753
+      Power Lich_4: 1420746161
+      Power Lich_141: 1427825166
+      Power Lich_86: 1819953119
+      Power Lich_1: 640670809
+      Power Lich_140: -1548313185
+      Power Lich_8: -618557340
+      Power Lich_116: -942419167
+      Power Lich_45: 1984500384
+      Power Lich_20: -251872991
+      Power Lich_118: -2044364178
+      Power Lich_125: -767609420
+      Power Lich_82: 1738913865
+      Power Lich_33: 1877895693
+      Power Lich_137: -1567238530
+      Power Lich_49: -147603815
+      Power Lich_115: -1914571470
+      Power Lich_107: -1209448893
+      Power Lich_138: 1611919767
+      Power Lich_134: 959678426
+      Power Lich_122: 315930508
+      Power Lich_111: 2134274788
+      Power Lich_117: 1384779335
+      Power Lich_95: 1667708658
+      Power Lich_23: -1724256899
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

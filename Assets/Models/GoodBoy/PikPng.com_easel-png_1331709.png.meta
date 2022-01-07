@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 9cad76ed41f3c4bf98035ae9a6613e71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1469
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a36dcee78c96453fa62587c9ef66377
+      internalID: 1319530005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1469
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79741c93c5f4d229ad6763da039d63
+      internalID: 298944354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1465
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82f8ca86b0e47f8918d9526798df1e
+      internalID: -1113580657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1465
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67d0e88d7944382ae5a38d0dc97640
+      internalID: -801882146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1462
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50787904ace461f9c2d20243534188
+      internalID: -403677601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1462
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b239a25bfbb6a4cd49374cd2666f9461
+      internalID: -862547950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1462
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad72728e66454154b72b02bbe9da681
+      internalID: -37722695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1462
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b85a7a8eafb64acea4fba14afc1403b
+      internalID: -732398365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1461
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769ae5b9067646ce8283b2093c934cd
+      internalID: 1658671480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1461
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efae84e935684f43a6efde75ce0d141
+      internalID: -274999164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_10
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1461
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dbba4df036241ef80acb4d4b330655
+      internalID: -1914340037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1461
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749c2793ad4b420ea8fde73ecf2b023
+      internalID: 1702346623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1168
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97384a6a8e2d49f8a651083ce4add53
+      internalID: 1203957279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1168
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4baad87566a4b36a3ef0eed6fce6f2
+      internalID: 223101787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1181
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22fa2837ba6442d8fa752389399c22
+      internalID: -1609742994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1181
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024a799f3b144bfaa81074d1d119dc1
+      internalID: -1563349544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1179
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab383113dd4454a76a263fdeec83cbbc
+      internalID: -1814704817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1179
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e697295dc25f44e1bff18fef3fe3fbf
+      internalID: -629402136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1169
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dceeb77ba72479e975868240c1925c
+      internalID: 359391687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1169
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beed74496731439893a2ab9289f5e2a
+      internalID: 132656703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_20
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1168
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914491272cf4846b1bc3f9127526dbd5
+      internalID: -1738130123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_21
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1168
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0f93a0574b42f0829ed6172e00cda
+      internalID: 1753654868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1169
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87592671d935f48f5ae5c411328c6f8a
+      internalID: -512716361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1169
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942ae7c8b44b414cb13bbc0dc654004
+      internalID: 535342572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 876
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b8b34efc4e46c38d9472902368e5a
+      internalID: 1868119254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 876
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4043c3c696af4de49cc8160faffc242
+      internalID: 812365934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 889
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332235af2e4646b48d149ff60a6064f
+      internalID: 686808348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 889
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745a145ed6194b5394bb277773bd18d
+      internalID: 555690322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 887
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bca2c5f6e014b2088400847b81487d
+      internalID: -1536990864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 887
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd49d2ad07734a26bc71ed9d5ff4807
+      internalID: 1464780051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 876
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea7da970560e46ca971f859512c8b9c
+      internalID: -1118619776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 876
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eaa6ebe06cf460bac3ae82d4fccb1c
+      internalID: -927839231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 880
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe3616707a54ac7961dd6a9f3adac7
+      internalID: -1876726270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 880
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55d675e91574e8793c80eaa984cae0
+      internalID: 1247427472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 880
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924251166c7924621a23ba9c37139db0
+      internalID: -20102803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_35
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 880
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9f938a499c43af98e3a5a7a1c4441
+      internalID: 1960983714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 628
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089532de9b5f4fe8a5a6b23406b46ce
+      internalID: -632516624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 628
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d874261a36184fa08b21582948920df
+      internalID: 200607664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 658
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a508868a46b4760a9c1519dfbc17d3
+      internalID: -581479254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 658
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cf3a052aa5f4ada8c0c93930b369b5
+      internalID: 1191564217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 678
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0a79a329aa44fb98f2ca7396b20df
+      internalID: 863086292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 678
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6c8fc5ad064e2bb6bed48feab44d2
+      internalID: 974351197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 683
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eb6d973167f4ef783beb54f16d5a8d
+      internalID: 310916368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_43
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 683
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc5d2fde24f4104ae71653bf80b373
+      internalID: 297391660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_44
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 668
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5704a88edc6b44bfac6ee6aa3d7b13b
+      internalID: -1640508482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 668
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb0af067eea40f4850fd992562764c
+      internalID: 20542412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_46
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 647
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593d18085d28454fb06cf234ee7f13f
+      internalID: -1742396082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_47
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 647
+        width: 122
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5bd289313a42ef85ef58efb118d6d
+      internalID: 251762889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 354
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6265290b6654b54a17e427f4162075
+      internalID: 1662813453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 354
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb73dca4ae4f4b0d856f2f57102c8c9
+      internalID: 350437465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 340
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10405aa1d5ab4c769283c791eb53d9e
+      internalID: 755857208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 340
+        width: 129
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14515592612694a048598129b529f9ec
+      internalID: -1374418300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_52
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 317
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078fc212e8d74a0482b986c46bf7c81
+      internalID: -1793512336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_53
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 317
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a28b675eec24e229ff61c17c846150
+      internalID: 382114845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_54
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 296
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269c37e07bfe4544916c94d840e926b
+      internalID: 936420119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 296
+        width: 120
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f41284f95744537846d7b39f2ea5fe
+      internalID: -1644480905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_56
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 296
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78fcf07caa2f449c9fa202355e3b37b
+      internalID: 1464001299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_57
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 296
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68e35552f2046d69b8f46bf9da7a7b
+      internalID: 616901920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 296
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfaf83502544ee4be45b84a6e41b4d
+      internalID: -373089640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_59
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 296
+        width: 89
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefbd87db0c85429694607941a6deb17
+      internalID: 400118055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73055acd425604443823d52ca151731b
+      internalID: -1937839302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 89
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34c29de107945d3ab2bd094c848a5b
+      internalID: -62109454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa401ef78e94927910ba1efec61b8f
+      internalID: 607075335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_easel-png_1331709_63
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3d384b834b40729f9b40d813d0cd1
+      internalID: -1182044512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PikPng.com_easel-png_1331709_40: 863086292
+      PikPng.com_easel-png_1331709_35: 1960983714
+      PikPng.com_easel-png_1331709_54: 936420119
+      PikPng.com_easel-png_1331709_24: 1868119254
+      PikPng.com_easel-png_1331709_63: -1182044512
+      PikPng.com_easel-png_1331709_18: 359391687
+      PikPng.com_easel-png_1331709_0: 1319530005
+      PikPng.com_easel-png_1331709_21: 1753654868
+      PikPng.com_easel-png_1331709_32: -1876726270
+      PikPng.com_easel-png_1331709_16: -1814704817
+      PikPng.com_easel-png_1331709_13: 223101787
+      PikPng.com_easel-png_1331709_48: 1662813453
+      PikPng.com_easel-png_1331709_22: -512716361
+      PikPng.com_easel-png_1331709_57: 616901920
+      PikPng.com_easel-png_1331709_44: -1640508482
+      PikPng.com_easel-png_1331709_41: 974351197
+      PikPng.com_easel-png_1331709_49: 350437465
+      PikPng.com_easel-png_1331709_17: -629402136
+      PikPng.com_easel-png_1331709_45: 20542412
+      PikPng.com_easel-png_1331709_56: 1464001299
+      PikPng.com_easel-png_1331709_15: -1563349544
+      PikPng.com_easel-png_1331709_23: 535342572
+      PikPng.com_easel-png_1331709_1: 298944354
+      PikPng.com_easel-png_1331709_51: -1374418300
+      PikPng.com_easel-png_1331709_60: -1937839302
+      PikPng.com_easel-png_1331709_55: -1644480905
+      PikPng.com_easel-png_1331709_38: -581479254
+      PikPng.com_easel-png_1331709_47: 251762889
+      PikPng.com_easel-png_1331709_53: 382114845
+      PikPng.com_easel-png_1331709_6: -37722695
+      PikPng.com_easel-png_1331709_28: -1536990864
+      PikPng.com_easel-png_1331709_8: 1658671480
+      PikPng.com_easel-png_1331709_25: 812365934
+      PikPng.com_easel-png_1331709_34: -20102803
+      PikPng.com_easel-png_1331709_27: 555690322
+      PikPng.com_easel-png_1331709_37: 200607664
+      PikPng.com_easel-png_1331709_2: -1113580657
+      PikPng.com_easel-png_1331709_46: -1742396082
+      PikPng.com_easel-png_1331709_33: 1247427472
+      PikPng.com_easel-png_1331709_36: -632516624
+      PikPng.com_easel-png_1331709_9: -274999164
+      PikPng.com_easel-png_1331709_30: -1118619776
+      PikPng.com_easel-png_1331709_3: -801882146
+      PikPng.com_easel-png_1331709_19: 132656703
+      PikPng.com_easel-png_1331709_20: -1738130123
+      PikPng.com_easel-png_1331709_26: 686808348
+      PikPng.com_easel-png_1331709_29: 1464780051
+      PikPng.com_easel-png_1331709_61: -62109454
+      PikPng.com_easel-png_1331709_62: 607075335
+      PikPng.com_easel-png_1331709_7: -732398365
+      PikPng.com_easel-png_1331709_5: -862547950
+      PikPng.com_easel-png_1331709_11: 1702346623
+      PikPng.com_easel-png_1331709_59: 400118055
+      PikPng.com_easel-png_1331709_50: 755857208
+      PikPng.com_easel-png_1331709_58: -373089640
+      PikPng.com_easel-png_1331709_39: 1191564217
+      PikPng.com_easel-png_1331709_43: 297391660
+      PikPng.com_easel-png_1331709_4: -403677601
+      PikPng.com_easel-png_1331709_31: -927839231
+      PikPng.com_easel-png_1331709_52: -1793512336
+      PikPng.com_easel-png_1331709_12: 1203957279
+      PikPng.com_easel-png_1331709_42: 310916368
+      PikPng.com_easel-png_1331709_14: -1609742994
+      PikPng.com_easel-png_1331709_10: -1914340037
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &222725677961325413
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1380181812, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: blood
+      value: 
+      objectReference: {fileID: 4887316704573583947, guid: a190a5dfcf9344eae9f653b65ad943af, type: 3}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2076205
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.30258143
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07502957
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965945, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965946, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_Name
+      value: ZombieAttack
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965948, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: _Status
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965950, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
