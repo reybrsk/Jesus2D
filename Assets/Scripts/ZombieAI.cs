@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Experimental.Rendering;
 
 public class ZombieAI : MonoBehaviour
 {
@@ -17,13 +18,15 @@ public class ZombieAI : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private float pointDistance;
     [SerializeField] private GameObject targetToAttack;
-
     
-    private bool _isRight;
     private Vector3 _rightPoint;
     private Vector3 _leftPoint;
     private float _baseLocalScale;
-    private Vector3[] path;
+
+    private Tween _tween;
+    private float _wayPointX;
+    
+    
     
     
     
@@ -34,7 +37,13 @@ public class ZombieAI : MonoBehaviour
         _leftPoint = new Vector3(transform.position.x - pointDistance, transform.position.y, 0);
         _baseLocalScale = transform.localScale.x;
         targetToAttack = GameObject.FindGameObjectWithTag("Player");
-        path = new[] { _leftPoint, _rightPoint };
+        
+        if (status == Status.Patrol) GoRight();
+
+        _tween = transform.DOMoveX(_wayPointX, 3);
+
+
+
     }
 
     private void Update()
@@ -42,7 +51,6 @@ public class ZombieAI : MonoBehaviour
         switch (status)
         {
             case Status.Patrol:
-                Patrol();
                 break;
             case Status.Attack:
                 if (targetToAttack == null)
@@ -74,23 +82,15 @@ public class ZombieAI : MonoBehaviour
 
     }
 
-    void Patrol()
+
+    private void GoRight()
     {
-
-
-        if (_isRight)
-        {
-            transform.DOMoveX(_rightPoint.x, 3).OnComplete(() => _isRight = false);
-            transform.localScale = new Vector3(_baseLocalScale, transform.localScale.y, transform.localScale.z);
-        
-        }
-        else
-        {
-            transform.DOMoveX(_leftPoint.x, 3).OnComplete(() => _isRight = true);
-            transform.localScale = new Vector3(-_baseLocalScale, transform.localScale.y, transform.localScale.z);
-        }
-        
-
-
+        transform.DOMoveX(_rightPoint.x, 3).OnComplete(() => GoLeft()); 
+        transform.localScale = new Vector3(_baseLocalScale, transform.localScale.y, transform.localScale.z);
+    }
+    private void GoLeft()
+    {
+        transform.DOMoveX(_leftPoint.x, 3).OnComplete(() => GoRight()); 
+        transform.localScale = new Vector3(-_baseLocalScale, transform.localScale.y, transform.localScale.z);
     }
 }
