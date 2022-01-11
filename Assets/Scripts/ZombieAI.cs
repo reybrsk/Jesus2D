@@ -1,6 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DG.Tweening;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class ZombieAI : MonoBehaviour
@@ -14,13 +16,15 @@ public class ZombieAI : MonoBehaviour
     [SerializeField] private Status status;
     [SerializeField] private float speed;
     [SerializeField] private float pointDistance;
-    [SerializeField] private Player player;
+    [SerializeField] private GameObject targetToAttack;
 
     
     private bool _isRight;
     private Vector3 _rightPoint;
     private Vector3 _leftPoint;
     private float _baseLocalScale;
+    private Vector3[] path;
+    
     
     
 
@@ -29,6 +33,8 @@ public class ZombieAI : MonoBehaviour
         _rightPoint = new Vector3(transform.position.x + pointDistance, transform.position.y, 0);
         _leftPoint = new Vector3(transform.position.x - pointDistance, transform.position.y, 0);
         _baseLocalScale = transform.localScale.x;
+        targetToAttack = GameObject.FindGameObjectWithTag("Player");
+        path = new[] { _leftPoint, _rightPoint };
     }
 
     private void Update()
@@ -39,16 +45,22 @@ public class ZombieAI : MonoBehaviour
                 Patrol();
                 break;
             case Status.Attack:
+                if (targetToAttack == null)
+                {
+                    status = Status.Patrol;
+                    Debug.LogError("Zombie Need targetToAttack");
+                    break;
+                }
                 Attack();
                 break;
+
         }
     }
 
     private void Attack()
     {
-        var translateVector = Vector3.Normalize(player.transform.position - transform.position);
+        var translateVector = Vector3.Normalize(targetToAttack.transform.position - transform.position);
         transform.Translate(translateVector * speed * Time.deltaTime);
-        
     }
 
 
@@ -64,21 +76,21 @@ public class ZombieAI : MonoBehaviour
 
     void Patrol()
     {
+
+
         if (_isRight)
         {
-            transform.Translate(speed * Time.deltaTime, 0, 0);
+            transform.DOMoveX(_rightPoint.x, 3).OnComplete(() => _isRight = false);
             transform.localScale = new Vector3(_baseLocalScale, transform.localScale.y, transform.localScale.z);
-
+        
         }
         else
         {
-            transform.Translate(-speed * Time.deltaTime, 0, 0);
+            transform.DOMoveX(_leftPoint.x, 3).OnComplete(() => _isRight = true);
             transform.localScale = new Vector3(-_baseLocalScale, transform.localScale.y, transform.localScale.z);
         }
         
 
 
-        if (transform.position.x < _leftPoint.x) _isRight = true;
-        if (transform.position.x > _rightPoint.x) _isRight = false;
     }
 }

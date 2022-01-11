@@ -60,6 +60,10 @@ PrefabInstance:
       value: ZombieAttack
       objectReference: {fileID: 0}
     - target: {fileID: 891205654652965948, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
+      propertyPath: status
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 891205654652965948, guid: 72c014a4b6869453baa4c2f929da350a, type: 3}
       propertyPath: _Status
       value: 1
       objectReference: {fileID: 0}

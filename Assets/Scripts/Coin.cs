@@ -8,9 +8,17 @@ using UnityEngine.Events;
 public class Coin : MonoBehaviour
 {
     [SerializeField] private int amount;
+    public UnityEvent<int> getCoin;
+    public UnityEvent getCoinClear;
     private bool _isGetting = false;
-    
-    
+
+
+
+    private IEnumerator Destroyer()
+    {
+        yield return new WaitForSeconds(1);
+        Destroy(gameObject);
+    }
 
 
     private void OnTriggerEnter2D(Collider2D col)
@@ -18,18 +26,15 @@ public class Coin : MonoBehaviour
         if (_isGetting) return;
         if (col.gameObject.TryGetComponent<Player>(out Player player))
         {
-            _isGetting = true;
             player.Coins += amount;
-            
-            if (TryGetComponent<SpriteRenderer>(out SpriteRenderer spriteRenderer))
-                spriteRenderer.enabled = false;
-
-            if(TryGetComponent(out AudioSource audioSource))
-                audioSource.PlayOneShot(audioSource.clip);
-
-            if(TryGetComponent(out ParticleSystem system))
-                system.Play();
+            getCoin?.Invoke(amount);
+            getCoinClear?.Invoke();
+            _isGetting = true;
+            GetComponent<SpriteRenderer>().enabled = false;
+            StartCoroutine(Destroyer());
         }
     }
+
+    
 
 }

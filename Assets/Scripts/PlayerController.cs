@@ -38,6 +38,20 @@ public class PlayerController : MonoBehaviour
         _animator = GetComponent<Animator>();
         _rb = GetComponent<Rigidbody2D>();
         _player = GetComponent<Player>();
+
+
+        switch (targetControlType)
+        {
+            case ControlType.Flat:
+                _rb.bodyType = RigidbodyType2D.Kinematic;
+                break;
+            case ControlType.Jump:
+                _rb.bodyType = RigidbodyType2D.Dynamic;
+                break;
+        }
+        
+        
+        
     }
 
     // Update is called once per frame
